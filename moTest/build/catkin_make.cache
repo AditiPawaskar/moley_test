@@ -1,0 +1,2 @@
+my_robot_description
+-DCATKIN_DEVEL_PREFIX=/home/aditi/my_files/moley/moTest/devel -DCMAKE_INSTALL_PREFIX=/home/aditi/my_files/moley/moTest/install -G Unix Makefiles
